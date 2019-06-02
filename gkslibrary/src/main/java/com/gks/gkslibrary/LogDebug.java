@@ -1,4 +1,4 @@
-package com.gks.samplesdk;
+package com.gks.gkslibrary;
 
 import android.content.Context;
 import android.widget.Toast;
